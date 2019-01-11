@@ -1,0 +1,291 @@
+fileFormatVersion: 2
+guid: e21cbfabbecac27479fb3e543bf104b6
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Dragon
+    100002: //RootNode
+    100004: Dragon_Hatchling
+    100006: Foot_L
+    100008: Foot_L_end
+    100010: Foot_R
+    100012: Foot_R_end
+    100014: Head
+    100016: Hip
+    100018: Hip.001
+    100020: Hip.002
+    100022: Hip.003
+    100024: Hip.004
+    100026: Hip.005
+    100028: Hip.006
+    100030: Hip.007
+    100032: Hip.007_end
+    100034: IK_L
+    100036: IK_L_end
+    100038: IK_R
+    100040: IK_R_end
+    100042: Jaw
+    100044: Jaw_end
+    100046: Leg_Bot_L
+    100048: Leg_Bot_R
+    100050: Leg_Top_L
+    100052: Leg_Top_R
+    100054: Main
+    100056: Neck
+    100058: Pole_L
+    100060: Pole_L_end
+    100062: Pole_R
+    100064: Pole_R_end
+    100066: Shoulder_L
+    100068: Shoulder_R
+    100070: Spine
+    100072: Spine.001
+    100074: Wing_L
+    100076: Wing_L.001
+    100078: Wing_L.001_end
+    100080: Wing_R
+    100082: Wing_R.001
+    100084: Wing_R.001_end
+    400000: Dragon
+    400002: //RootNode
+    400004: Dragon_Hatchling
+    400006: Foot_L
+    400008: Foot_L_end
+    400010: Foot_R
+    400012: Foot_R_end
+    400014: Head
+    400016: Hip
+    400018: Hip.001
+    400020: Hip.002
+    400022: Hip.003
+    400024: Hip.004
+    400026: Hip.005
+    400028: Hip.006
+    400030: Hip.007
+    400032: Hip.007_end
+    400034: IK_L
+    400036: IK_L_end
+    400038: IK_R
+    400040: IK_R_end
+    400042: Jaw
+    400044: Jaw_end
+    400046: Leg_Bot_L
+    400048: Leg_Bot_R
+    400050: Leg_Top_L
+    400052: Leg_Top_R
+    400054: Main
+    400056: Neck
+    400058: Pole_L
+    400060: Pole_L_end
+    400062: Pole_R
+    400064: Pole_R_end
+    400066: Shoulder_L
+    400068: Shoulder_R
+    400070: Spine
+    400072: Spine.001
+    400074: Wing_L
+    400076: Wing_L.001
+    400078: Wing_L.001_end
+    400080: Wing_R
+    400082: Wing_R.001
+    400084: Wing_R.001_end
+    2100000: GreenDragon
+    4300000: Dragon
+    7400000: Idle
+    7400002: Jump
+    7400004: Jump_Fly
+    7400006: Walk
+    9500000: //RootNode
+    13700000: Dragon
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Idle
+      takeName: Idle
+      firstFrame: 0
+      lastFrame: 22
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Jump
+      takeName: Jump
+      firstFrame: 0
+      lastFrame: 25
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Jump_Fly
+      takeName: Jump_Fly
+      firstFrame: 0
+      lastFrame: 59
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Walk
+      takeName: Walk
+      firstFrame: 0
+      lastFrame: 39
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
